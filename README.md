@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @nickotyna
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+-    Essa parte aí foi o github que fez kkkk
+-    Meu nome é Níkollas, tenho 17 anos, e tô começando nesse lado da vida agora! kkkk
+-    Se alguém tive o interesse de ter um pupilo, tô agradecendo!!
+
+<!---
+nickotyna/nickotyna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
